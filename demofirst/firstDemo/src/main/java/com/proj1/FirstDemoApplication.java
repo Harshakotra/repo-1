@@ -14,6 +14,6 @@ public class FirstDemoApplication {
 	}
 @RequestMapping("/sai")
 public String display() {
-	return"sai and sushma get married soon :)";
+	return"sai and sushma get married soon : which is impossible today)";
 }
 }
